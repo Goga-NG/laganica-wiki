@@ -1,6 +1,5 @@
 import os
 
-# Rečnik sa strukturom foldera i pripadajućih fajlova
 struktura = {
     r"docs\druga-godina\medicinska-biohemija\proteini": [
         "struktura-proteina-nivoi-organizacije-molekula.md",
@@ -39,15 +38,19 @@ struktura = {
     ]
 }
 
-# ISPRAVLJENO: Dodat čist razmak i formatiran naslov
 sadrzaj = "# *Pitanje nije završeno*\n\n[← Nazad na pitanja](index.md)\n"
 
-# Prolazak kroz strukturu i ponovno kreiranje/prebrisavanje fajlova
 for folder, fajlovi in struktura.items():
     os.makedirs(folder, exist_ok=True)
     
     for f in fajlovi:
         putanja = os.path.join(folder, f)
+        
+        # Ako fajl postoji, brišemo ga da bismo bili sigurni da nema starih grešaka
+        if os.path.exists(putanja):
+            os.remove(putanja)
+            
         with open(putanja, "w", encoding="utf-8") as file:
             file.write(sadrzaj)
-        print(f"Osvežen: {putanja}")
+            
+print("Svi fajlovi su uspešno obrisani i ponovo kreirani sa ispravnim linkom!")
