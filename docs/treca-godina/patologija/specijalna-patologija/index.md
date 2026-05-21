@@ -147,3 +147,4 @@
 145. [Opsta patologija misica](opsta-patologija-misica.md)
 146. [Patologija neurogenih misicnih bolesti](patologija-neurogenih-misicnih-bolesti.md)
 147. [Patologija primarnih misicnih bolesti - miopatije](patologija-primarnih-misicnih-bolesti.md)
+148. [Patologija primarnih misicnih bolesti - miopatije](patologija-primarnih-misicnih-bolesti.md)
