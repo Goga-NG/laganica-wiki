@@ -18,3 +18,12 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Svetla tema
+        
+nav:
+  - Početna: index.md
+  - Prva godina: prva-godina/index.md
+  - Druga godina: druga-godina/index.md
+  - Treća godina: treca-godina/index.md
+  - Četvrta godina: cetvrta-godina/index.md
+  - Peta godina: peta-godina/index.md
+  - Šesta godina: sesta-godina/index.md
