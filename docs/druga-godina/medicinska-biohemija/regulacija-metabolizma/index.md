@@ -1,1 +1,20 @@
-# Regulacija metabolizma i biohemija tkiva 
+# Regulacija metabolizma 
+ 
+1. [Slobodni radikali: nastanak u fizioloskim uslovima, mehanizmi detoksikacije i patofizioloski znacaj](slobodni-radikali-nastanak-detoksikacija-i-patofizioloski-znacaj.md) 
+2. [Regulacija metabolizma na nivou organizma - uloga jetre](regulacija-metabolizma-na-nivou-organizma-uloga-jetre.md) 
+3. [Metabolicke specificnosti skeletnih i srcanog misica](metabolicke-specificnosti-skeletnih-i-srcanog-misica.md) 
+4. [Metabolizam na nivou organizma odmah posle obroka, izmedu obroka i u gladovanju](metabolizam-posle-obroka-izmedju-obroka-i-u-gladovanju.md) 
+5. [Biohemijska organizacija celijskog jedgra](biohemijska-organizacija-celijskog-jezgra.md) 
+6. [Biohemijska organizacija mitohondrija](biohemijska-organizacija-mitohondrija.md) 
+7. [Biohemijske karakteristike celijskih membrana](biohemijske-karakteristike-celijskih-membrana.md) 
+8. [Proteini krvne plazme](proteini-krvne-plazme.md) 
+9. [Biohemijske karakteristike krvnih celija](biohemijske-karakteristike-krvnih-celija.md) 
+10. [Metabolicke funkcije jetre](metabolicke-funkcije-jetre.md) 
+11. [Metabolizam etanola](metabolizam-etanola.md) 
+12. [Molekulska osnova procesa detoksikacije u jetri](molekulska-osnova-procesa-detoksikacije-u-jetri.md) 
+13. [Neurotransmiteri i hemijska transmisija u nervnom sistemu](neurotransmiteri-i-hemijska-transmisija-u-nervnom-sistemu.md) 
+14. [Metabolizam ksenobiotika: sistem citohroma P450 i reakcije konjugacije](metabolizam-ksenobiotika-sistem-citohroma-p450-i-konjugacija.md) 
+15. [Biohemijski pokazatelji funkcije bubrega: urea i kreatinin](biohemijski-pokazatelji-funkcije-bubrega-urea-i-kreatinin.md) 
+16. [Klinicko biohemijski pokazatelji regulacije glikemije](klinicko-biohemijski-pokazatelji-regulacije-glikemije.md) 
+17. [Fizicko hemijske i biohemijske karakteristike urina. Klinicki znacaj](fizicko-hemijske-i-biohemijske-karakteristike-urina.md) 
+18. [Endokrina funkcija bubrega: renin-angiotenzin-aldosteron sistem, eritropoetin, prostaglandini i vitamin D](endokrina-funkcija-bubrega-raas-eritropoetin-prostaglandini-vitamin-d.md) 

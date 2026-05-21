@@ -1,5 +1,6 @@
 import os
 
+# Sveobuhvatna struktura svih lekcija iz medicinske biohemije
 struktura = {
     r"docs\druga-godina\medicinska-biohemija\proteini": [
         "struktura-proteina-nivoi-organizacije-molekula.md",
@@ -16,7 +17,7 @@ struktura = {
         "opste-osobine-enzima-i-struktura-molekula-enzima.md",
         "kvaternarna-struktura-enzima-izoenzimi.md",
         "struktura-aktivnog-mesta-enzima-familije-enzima.md",
-        "nomenklatura-i-klasifikacija-enzima.md",  # Popravljeni razmaci u crtice
+        "nomenklatura-i-klasifikacija-enzima.md",
         "mehanizmi-enzimske-katalize.md",
         "kinetika-enzimske-katalize.md",
         "inhibicija-enzima-bioloski-znacaj-reverzibilne-i-ireverzibilne-inhibicije-enzima.md",
@@ -35,25 +36,167 @@ struktura = {
         "ck.md",
         "ldh.md",
         "amilaza.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\metabolizam-i-digestija": [
+        "enzimi-unutarcelijske-oksidacije-redukcije-dehidrogenaze-oksidaze-oksigenaze-sistem-citohroma-p450.md",
+        "metabolicka-uloga-familije-enzima-citohroma-p450.md",
+        "oksidacije-i-redukcije-u-celiji-priroda-i-dinamika-oslobadjanja-energije.md",
+        "metabolicki-putevi-priroda-podela-nacin-regulacije-i-znacaj.md",
+        "izmena-energije-u-celiji-slobodna-energija-endergonicne-egzergonicne-reakcije-i-veze.md",
+        "enzimi-digestije-ugljenih-hidrata-i-mehanizmi-transporta-monosaharida.md",
+        "digestija-resorpcija-i-reesterifikacija-lipida.md",
+        "digestija-proteina-i-enzimi-digestije-resorpcija-amino-kiselina-i-transportni-sistemi.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\respiratorni-lanac": [
+        "mitohondrijski-sistem-za-transport-elektrona-respiratorni-lanac.md",
+        "atp-sintaza-i-mehanizam-oksidativne-fosforilacije.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\ugljeni-hidrati": [
+        "znacaj-ugljenih-hidrata-in-metabolizmu.md",
+        "glikoliza-reakcije-kosupstrati-i-enzimi.md",
+        "kljucni-enzimi-glikolize-i-regulacija.md",
+        "stvaranje-visoko-energetskih-fosfata-u-glikolizi.md",
+        "glukoneogeneza-reakcije-enzimi-i-energetski-bilans.md",
+        "supstrati-za-glukoneogenezu-i-regulacija.md",
+        "glikemija-i-regulacija-glikemije.md",
+        "sinteza-glikogena-i-regulacija.md",
+        "katabolizam-glikogena-i-regulacija.md",
+        "alternativni-putevi-metabolizma-i-ciklus-glukuronske-kiseline.md",
+        "heksozomonofosfatni-put.md",
+        "metabolizam-fruktoze-galaktoze-i-laktoze.md",
+        "ugljeni-hidrati-kao-strukturni-elementi.md",
+        "metabolicke-sudbine-piruvata-oksidacija-u-acetil-coa.md",
+        "ciklus-trikarboksilnih-kiselina-reakcije-enzimi-i-znacaj.md",
+        "regulacija-ciklusa-trikarboksilnih-kiselina.md",
+        "prenosenje-redukcionih-ekvivalenata-cunasti-mehanizmi.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\lipidi": [
+        "transport-lipida-hilomikroni-i-transport-masnih-kiselina.md",
+        "sinteza-zasicenih-masnih-kiselina-izvori-acetil-coa.md",
+        "sintaza-masnih-kiselina-struktura-funkcija-reakcije-i-regulacija.md",
+        "elongacija-i-desaturacija-masnih-kiselina.md",
+        "sinteza-i-deponovanje-triacilglicerola.md",
+        "lipoliza-triacilglicerola-i-kontrola-lipolize-u-adipocitima.md",
+        "oksidacija-masnih-kiselina-sa-parnim i-neparnim-brojem-atoma.md",
+        "oksidacija-nezasicenih-masnih-kiselina.md",
+        "metabolicke-sudbine-acetil-coa.md",
+        "alternativni-putevi-oksidacije-masnih-kiselina.md",
+        "fosfogliceroli-struktura-i-metabolizam.md",
+        "sfingolipidi-sfingomijelin-i-glikosfingolipidi-struktura-i-metabolizam.md",
+        "metabolizam-ketonskih-tela-znacaj-u-gladovanju-i-dijabetesu.md",
+        "lipoproteini-plazme-metabolizam-i-klinicki-znacaj-hilomikrona-i-vldl.md",
+        "lipoproteini-plazme-metabolizam-i-klinicki-znacaj-ldl-i-hdl.md",
+        "metabolizam-i-klinicki-znacaj-holesterola.md",
+        "holesterol-kao-prekursor-zucnih-kiselina.md",
+        "sinteza-lipoproteina-u-jetri.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\metabolizam-proteina": [
+        "slobodne-aminokiseline-u-organizmu-i-njihov-promet.md",
+        "metabolicki-procesi-u-kojima-se-koriste-slobodne-aminokiseline.md",
+        "katabolizam-aminokiselina-transaminacija-i-oksidativna-deaminacija.md",
+        "metabolicka-sudbina-azota-aminokiselina-ciklus-ureje.md",
+        "metabolicke-sudbine-ugljovodonicnog-kostura-aminokiselina.md",
+        "sinteza-aminokiselina-iz-intermedijera-glikolize.md",
+        "sinteza-aminokiselina-iz-intermedijera-ciklusa-trikarboksilnih-kiselina.md",
+        "katabolizam-aminokiselina-koje-se-razgradjuju-do-acetil-coa.md",
+        "katabolizam-aminokiselina-razgranatog-lanca-i-lizina.md",
+        "katabolizam-aminokiselina-koje-se-razgradjuju-do-alfa-ketoglutarata-ili-oksalacetata.md",
+        "katabolizam-aminokiselina-koje-se-razgradjuju-do-sukcinil-coa.md",
+        "katabolizam-aminokiselina-koje-se-razgradjuju-do-piruvata.md",
+        "aminokiseline-kao-prekursori-bioloski-vaznih-jedinjenja.md",
+        "biosinteza-hema-regulacija.md",
+        "razgradnja-porfirina-i-katabolizam-hema-metabolizam-bilirubina.md",
+        "metabolizam-gvozdja.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\metabolizam-nukleotida": [
+        "sinteza-purinskih-nukleotida-regulacija.md",
+        "sinteza-pirimidinskih-nukleotida-regulacija.md",
+        "katabolizam-purinskih-i-pirimidinskih-nukleotida.md",
+        "dnk-sastav-struktura-i-organizacija-u-hromatinu.md",
+        "rnk-sastav-struktura-i-vrste.md",
+        "replikacija-dnk.md",
+        "transkripcija-dnk-u-rnk.md",
+        "posttranskripciona-obrada-rnk.md",
+        "regulacija-transkripcije-dnk-u-rnk.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\signalni-putevi": [
+        "bioloske-membrane-sastav-i-organizacija.md",
+        "receptori-na-celijskim-membranama-i-u-celiji.md",
+        "receptori-povezani-sa-g-proteinima-sistem-adenilat-ciklaze.md",
+        "receptori-povezani-sa-g-proteinima-signalni-put-fosfolipaze-c.md",
+        "uloga-fosforilacije-defosforilacije-proteina-u-unutarcelijskoj-signalizaciji.md",
+        "receptori-sa-tirozin-kinaznom-enzimskom-aktivnoscu.md",
+        "hormoni-definicija-podela-prema-mestu-delovanja-i-hemijskom-sastavu.md",
+        "hijerarhijska-organizacija-endokrinog-sistema.md",
+        "endokrina-regulacija-na-nivou-hipotalamusa-i-hipofize-faktori-oslobadjanja.md",
+        "hormon-rasta-hemijska-priroda-sinteza-transport-mehanizam-i-efekti.md",
+        "hormoni-tireoidne-zlezde-hemijska-priroda-sinteza-transport-i-mehanizam.md",
+        "hormoni-koji-regulisu-metabolizam-kalcijuma.md",
+        "glukokortikoidi-hemijska-priroda-sinteza-transport-i-mehanizam.md",
+        "mineralokortikoidi-hemijska-priroda-sinteza-transport-i-mehanizam.md",
+        "hormoni-srzi-nadbubrezne-zlezde-hemijska-priroda-sinteza-i-mehanizam.md",
+        "muski-polni-hormoni-hemijska-priroda-sinteza-transport-i-mehanizam.md",
+        "zenski-polni-hormoni-hemijska-priroda-sinteza-transport-i-mehanizam.md",
+        "hormoni-pankreasa-hemijska-priroda-sinteza-transport-i-mehanizam.md",
+        "hormoni-gastrointestinalnog-trakta-hemijska-priroda-i-mehanizam-delovanja.md",
+        "hemijski-prenos-signala-u-nervnom-sistemu.md",
+        "azotni-oksid-sistem-gvanilat-ciklaze.md",
+        "metaboliti-arahidonske-kiseline-prostaglandini-tromboksani-i-leukotrijeni.md",
+        "celijski-ciklus-uloga-kompleksa-ciklin-ciklin-zavisne-kinaze.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\vitamini": [
+        "biohemijske-karakteristike-i-biohemijski-znacaj-hidrosolubilnih-vitamina.md",
+        "biohemijske-karakteristike-i-biohemijski-znacaj-liposolubilnih-vitamina.md",
+        "vitamini-kao-antioksidanti.md",
+        "vitamini-b-kompleksa-kao-kofaktori-niacin-i-riboflavin.md",
+        "vitamini-b-kompleksa-kao-kofaktori-tiamin-b6.md",
+        "vitamini-b-kompleksa-kao-kofaktori-b12-i-folna-kiselina.md",
+        "vitamini-b-kompleksa-kao-kofaktori-pantotenska-kiselina-i-biotin.md",
+        "koenzimi-u-prenosenju-jednougljenicnih-ostataka.md",
+    ],
+
+    r"docs\druga-godina\medicinska-biohemija\regulacija-metabolizma": [
+        "slobodni-radikali-nastanak-detoksikacija-i-patofizioloski-znacaj.md",
+        "regulacija-metabolizma-na-nivou-organizma-uloga-jetre.md",
+        "metabolicke-specificnosti-skeletnih-i-srcanog-misica.md",
+        "metabolizam-posle-obroka-izmedju-obroka-i-u-gladovanju.md",
+        "biohemijska-organizacija-celijskog-jezgra.md",
+        "biohemijska-organizacija-mitohondrija.md",
+        "biohemijske-karakteristike-celijskih-membrana.md",
+        "proteini-krvne-plazme.md",
+        "biohemijske-karakteristike-krvnih-celija.md",
+        "metabolicke-funkcije-jetre.md",
+        "metabolizam-etanola.md",
+        "molekulska-osnova-procesa-detoksikacije-u-jetri.md",
+        "neurotransmiteri-i-hemijska-transmisija-u-nervnom-sistemu.md",
+        "metabolizam-ksenobiotika-sistem-citohroma-p450-i-konjugacija.md",
+        "biohemijski-pokazatelji-funkcije-bubrega-urea-i-kreatinin.md",
+        "klinicko-biohemijski-pokazatelji-regulacije-glikemije.md",
+        "fizicko-hemijske-i-biohemijske-karakteristike-urina.md",
+        "endokrina-funkcija-bubrega-raas-eritropoetin-prostaglandini-vitamin-d.md",
     ]
 }
 
-# Identitičan tekst i link kakav imaš u proteinima
-sadrzaj = "# *Pitanje nije završeno*\n\n[← Nazad na pitanja](index.md)\n"
+# Sadržaj za svako pojedinačno pitanje
+tekst_pitanja = "Pitanje nije zavrseno\n"
 
-for folder, fajlovi in struktura.items():
-    # Kreira folder ako ne postoji
-    os.makedirs(folder, exist_ok=True)
-    
-    for f in fajlovi:
-        putanja = os.path.join(folder, f)
-        
-        # Prvo obrišemo stari fajl ako postoji, da očistimo eventualne greške
-        if os.path.exists(putanja):
-            os.remove(putanja)
-            
-        # Upisujemo svež sadržaj sa linkom
-        with open(putanja, "w", encoding="utf-8") as file:
-            file.write(sadrzaj)
-
-print("Svi fajlovi u enzimima su uspešno prepisani i sada imaju identičan hiperlink!")
+# Mapiranje čistih naslova za automatsku generaciju index.md fajlova
+naslovi_indeksa = {
+    "proteini": "Proteini",
+    "enzimi": "Enzimi",
+    "metabolizam-i-digestija": "Metabolizam i digestija",
+    "respiratorni-lanac": "Respiratorni lanac",
+    "ugljeni-hidrati": "Ugljeni hidrati",
+    "lipidi": "Lipidi",
+    "metabolizam-proteina": "Metabolizam proteina",
+    "metabolizam-nukleotida": "Metabolizam nukleotida",
+    "signalni-putevi": "Signalni putevi",
+    "vitamini": "Vitamini",

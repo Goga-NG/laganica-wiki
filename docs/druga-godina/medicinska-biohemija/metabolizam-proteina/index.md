@@ -1,1 +1,18 @@
-# Metabolizam proteina i aminokiselina 
+# Metabolizam proteina 
+ 
+1. [Slobodne aminokiseline ("pool") u organizmu i njihov promet](slobodne-aminokiseline-u-organizmu-i-njihov-promet.md) 
+2. [Metabolicki procesi u kojima se koriste slobodne aminokiseline](metabolicki-procesi-u-kojima-se-koriste-slobodne-aminokiseline.md) 
+3. [Katabolizam aminokiselina: transaminacija i oksidativna deaminacija](katabolizam-aminokiselina-transaminacija-i-oksidativna-deaminacija.md) 
+4. [Metabolicka sudbina azota aminokiselina. Ciklus sinteze ureje: reakcije, enzimi i regulacija](metabolicka-sudbina-azota-aminokiselina-ciklus-ureje.md) 
+5. [Metabolicke sudbine ugljovodonicnog kostura aminokiselina](metabolicke-sudbine-ugljovodonicnog-kostura-aminokiselina.md) 
+6. [Sinteza aminokiselina iz intermedijera glikolize (serin, glicin, cistein, homocistein, alanin)](sinteza-aminokiselina-iz-intermedijera-glikolize.md) 
+7. [Sinteza aminokiselina iz intermedijera ciklusa trikarboksilnih kiselina (glutamat, glutamin, prolin, arginin, aspartat, asparagin)](sinteza-aminokiselina-iz-intermedijera-ciklusa-trikarboksilnih-kiselina.md) 
+8. [Katabolizam aminokiselina koje se razgraduju do acetil-CoA (fenilalanin, tirozin, triptofan, lizin, treonin)](katabolizam-aminokiselina-koje-se-razgradjuju-do-acetil-coa.md) 
+9. [Katabolizam aminokiselina razgranatog lanca (valin, leucin, izoleucin) i lizina](katabolizam-aminokiselina-razgranatog-lanca-i-lizina.md) 
+10. [Katabolizam aminokiselina koje se razgraduju do \alpha-ketoglutarata ili oksalacetata (arginin, histidin, prolin, glutamat, glutamin, aspartat, asparagin)](katabolizam-aminokiselina-koje-se-razgradjuju-do-alfa-ketoglutarata-ili-oksalacetata.md) 
+11. [Katabolizam aminokiselina koje se razgraduju do sukcinil-CoA (metionin, izoleucin, treonin, valin)](katabolizam-aminokiselina-koje-se-razgradjuju-do-sukcinil-coa.md) 
+12. [Katabolizam aminokiselina koje se razgraduju do piruvata (alanin, serin, glicin, cistein, treonin)](katabolizam-aminokiselina-koje-se-razgradjuju-do-piruvata.md) 
+13. [Aminokiseline kao prekursori bioloski vaznih jedinjenja (glutationa, kreatina, poliamina, karnozina, anserina i neurotransmitera)](aminokiseline-kao-prekursori-bioloski-vaznih-jedinjenja.md) 
+14. [Biosinteza hema. Regulacija](biosinteza-hema-regulacija.md) 
+15. [Razgradnja porfirina i katabolizam hema. Metabolizam bilirubina](razgradnja-porfirina-i-katabolizam-hema-metabolizam-bilirubina.md) 
+16. [Metabolizam gvozda](metabolizam-gvozdja.md) 
