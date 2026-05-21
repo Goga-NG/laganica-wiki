@@ -200,3 +200,30 @@ naslovi_indeksa = {
     "metabolizam-nukleotida": "Metabolizam nukleotida",
     "signalni-putevi": "Signalni putevi",
     "vitamini": "Vitamini",
+    "regulacija-metabolizma": "Regulacija metabolizma", # Dodato
+}
+
+# --- KOD ZA GENERISANJE FAJLOVA ---
+
+# Definišemo Markdown link za nazad (vodi jedan nivo iznad, obično na index.md tog foldera)
+dugme_nazad = "[🔙 Nazad](../)\n\n"
+
+for folder_putanja, fajlovi in struktura.items():
+    # 1. Kreiranje celog stabla direktorijuma ukoliko već ne postoji
+    os.makedirs(folder_putanja, exist_ok=True)
+    
+    # 2. Generisanje svakog .md fajla u direktorijumu
+    for fajl in fajlovi:
+        puna_putanja = os.path.join(folder_putanja, fajl)
+        
+        # Ekstrakcija i formatiranje naslova iz imena fajla (za čistiji prikaz unutar dokumenta)
+        naslov_lekcije = fajl.replace(".md", "").replace("-", " ").capitalize()
+        
+        # Kreiranje konačnog sadržaja fajla: Dugme nazad -> Naslov -> Tekst
+        sadrzaj = f"{dugme_nazad}# {naslov_lekcije}\n\n{tekst_pitanja}"
+        
+        # Upisivanje u fajl
+        with open(puna_putanja, "w", encoding="utf-8") as f:
+            f.write(sadrzaj)
+
+print("Skripta je uspesno kreirala sve foldere i fajlove! 'Nazad' dugme je uspesno dodato svuda.")
