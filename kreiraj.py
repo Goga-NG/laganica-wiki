@@ -17,7 +17,7 @@ struktura = {
         "opste-osobine-enzima-i-struktura-molekula-enzima.md",
         "kvaternarna-struktura-enzima-izoenzimi.md",
         "struktura-aktivnog-mesta-enzima-familije-enzima.md",
-        "nomenklatura i klasifikacija-enzima.md",
+        "nomenklatura-i-klasifikacija-enzima.md",
         "mehanizmi-enzimske-katalize.md",
         "kinetika-enzimske-katalize.md",
         "inhibicija-enzima-bioloski-znacaj-reverzibilne-i-ireverzibilne-inhibicije-enzima.md",
@@ -39,9 +39,10 @@ struktura = {
     ]
 }
 
-sadrzaj = "*Pitanje nije završeno*\n\n[← Nazad na pitanja](index.md)\n"
+# ISPRAVLJENO: Dodat čist razmak i formatiran naslov
+sadrzaj = "# *Pitanje nije završeno*\n\n[← Nazad na pitanja](index.md)\n"
 
-# Prolazak kroz strukturu i kreiranje foldera i fajlova
+# Prolazak kroz strukturu i ponovno kreiranje/prebrisavanje fajlova
 for folder, fajlovi in struktura.items():
     os.makedirs(folder, exist_ok=True)
     
@@ -49,4 +50,4 @@ for folder, fajlovi in struktura.items():
         putanja = os.path.join(folder, f)
         with open(putanja, "w", encoding="utf-8") as file:
             file.write(sadrzaj)
-        print(f"Kreiran: {putanja}")
+        print(f"Osvežen: {putanja}")
