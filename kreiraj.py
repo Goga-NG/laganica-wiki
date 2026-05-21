@@ -1,8 +1,9 @@
 import os
 
 # Sveobuhvatna struktura svih lekcija iz medicinske biohemije
+# Putanje su prebačene na forward-slash (/) za maksimalnu kompatibilnost
 struktura = {
-    r"docs\druga-godina\medicinska-biohemija\proteini": [
+    "docs/druga-godina/medicinska-biohemija/proteini": [
         "struktura-proteina-nivoi-organizacije-molekula.md",
         "proteini-koji-vezuju-kiseonik-hemoglobin-i-mioglobin.md",
         "elementi-koji-cine-biohemijsku-masineriju-za-sintezu-proteina-ribozomi-i-rnk.md",
@@ -13,7 +14,7 @@ struktura = {
         "unutarcelijska-razgradnja-proteina-lizozomi-i-ubikvitin-sistem.md",
     ],
     
-    r"docs\druga-godina\medicinska-biohemija\enzimi": [
+    "docs/druga-godina/medicinska-biohemija/enzimi": [
         "opste-osobine-enzima-i-struktura-molekula-enzima.md",
         "kvaternarna-struktura-enzima-izoenzimi.md",
         "struktura-aktivnog-mesta-enzima-familije-enzima.md",
@@ -38,7 +39,7 @@ struktura = {
         "amilaza.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\metabolizam-i-digestija": [
+    "docs/druga-godina/medicinska-biohemija/metabolizam-i-digestija": [
         "enzimi-unutarcelijske-oksidacije-redukcije-dehidrogenaze-oksidaze-oksigenaze-sistem-citohroma-p450.md",
         "metabolicka-uloga-familije-enzima-citohroma-p450.md",
         "oksidacije-i-redukcije-u-celiji-priroda-i-dinamika-oslobadjanja-energije.md",
@@ -49,12 +50,12 @@ struktura = {
         "digestija-proteina-i-enzimi-digestije-resorpcija-amino-kiselina-i-transportni-sistemi.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\respiratorni-lanac": [
+    "docs/druga-godina/medicinska-biohemija/respiratorni-lanac": [
         "mitohondrijski-sistem-za-transport-elektrona-respiratorni-lanac.md",
         "atp-sintaza-i-mehanizam-oksidativne-fosforilacije.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\ugljeni-hidrati": [
+    "docs/druga-godina/medicinska-biohemija/ugljeni-hidrati": [
         "znacaj-ugljenih-hidrata-in-metabolizmu.md",
         "glikoliza-reakcije-kosupstrati-i-enzimi.md",
         "kljucni-enzimi-glikolize-i-regulacija.md",
@@ -74,7 +75,7 @@ struktura = {
         "prenosenje-redukcionih-ekvivalenata-cunasti-mehanizmi.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\lipidi": [
+    "docs/druga-godina/medicinska-biohemija/lipidi": [
         "transport-lipida-hilomikroni-i-transport-masnih-kiselina.md",
         "sinteza-zasicenih-masnih-kiselina-izvori-acetil-coa.md",
         "sintaza-masnih-kiselina-struktura-funkcija-reakcije-i-regulacija.md",
@@ -95,7 +96,7 @@ struktura = {
         "sinteza-lipoproteina-u-jetri.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\metabolizam-proteina": [
+    "docs/druga-godina/medicinska-biohemija/metabolizam-proteina": [
         "slobodne-aminokiseline-u-organizmu-i-njihov-promet.md",
         "metabolicki-procesi-u-kojima-se-koriste-slobodne-aminokiseline.md",
         "katabolizam-aminokiselina-transaminacija-i-oksidativna-deaminacija.md",
@@ -114,7 +115,7 @@ struktura = {
         "metabolizam-gvozdja.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\metabolizam-nukleotida": [
+    "docs/druga-godina/medicinska-biohemija/metabolizam-nukleotida": [
         "sinteza-purinskih-nukleotida-regulacija.md",
         "sinteza-pirimidinskih-nukleotida-regulacija.md",
         "katabolizam-purinskih-i-pirimidinskih-nukleotida.md",
@@ -126,7 +127,7 @@ struktura = {
         "regulacija-transkripcije-dnk-u-rnk.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\signalni-putevi": [
+    "docs/druga-godina/medicinska-biohemija/signalni-putevi": [
         "bioloske-membrane-sastav-i-organizacija.md",
         "receptori-na-celijskim-membranama-i-u-celiji.md",
         "receptori-povezani-sa-g-proteinima-sistem-adenilat-ciklaze.md",
@@ -152,7 +153,7 @@ struktura = {
         "celijski-ciklus-uloga-kompleksa-ciklin-ciklin-zavisne-kinaze.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\vitamini": [
+    "docs/druga-godina/medicinska-biohemija/vitamini": [
         "biohemijske-karakteristike-i-biohemijski-znacaj-hidrosolubilnih-vitamina.md",
         "biohemijske-karakteristike-i-biohemijski-znacaj-liposolubilnih-vitamina.md",
         "vitamini-kao-antioksidanti.md",
@@ -163,7 +164,7 @@ struktura = {
         "koenzimi-u-prenosenju-jednougljenicnih-ostataka.md",
     ],
 
-    r"docs\druga-godina\medicinska-biohemija\regulacija-metabolizma": [
+    "docs/druga-godina/medicinska-biohemija/regulacija-metabolizma": [
         "slobodni-radikali-nastanak-detoksikacija-i-patofizioloski-znacaj.md",
         "regulacija-metabolizma-na-nivou-organizma-uloga-jetre.md",
         "metabolicke-specificnosti-skeletnih-i-srcanog-misica.md",
@@ -200,30 +201,49 @@ naslovi_indeksa = {
     "metabolizam-nukleotida": "Metabolizam nukleotida",
     "signalni-putevi": "Signalni putevi",
     "vitamini": "Vitamini",
-    "regulacija-metabolizma": "Regulacija metabolizma", # Dodato
+    "regulacija-metabolizma": "Regulacija metabolizma", 
 }
+
+# Definišemo Markdown link za nazad 
+dugme_nazad = "[🔙 Nazad](../)\n\n"
 
 # --- KOD ZA GENERISANJE FAJLOVA ---
 
-# Definišemo Markdown link za nazad (vodi jedan nivo iznad, obično na index.md tog foldera)
-dugme_nazad = "[🔙 Nazad](../)\n\n"
-
 for folder_putanja, fajlovi in struktura.items():
-    # 1. Kreiranje celog stabla direktorijuma ukoliko već ne postoji
-    os.makedirs(folder_putanja, exist_ok=True)
-    
-    # 2. Generisanje svakog .md fajla u direktorijumu
-    for fajl in fajlovi:
-        puna_putanja = os.path.join(folder_putanja, fajl)
+    try:
+        # 1. Kreiranje celog stabla direktorijuma ukoliko već ne postoji
+        os.makedirs(folder_putanja, exist_ok=True)
         
-        # Ekstrakcija i formatiranje naslova iz imena fajla (za čistiji prikaz unutar dokumenta)
-        naslov_lekcije = fajl.replace(".md", "").replace("-", " ").capitalize()
+        # Ekstrakcija imena foldera za generisanje Index naslova
+        ime_foldera = os.path.basename(os.path.normpath(folder_putanja))
+        naslov_indeksa_str = naslovi_indeksa.get(ime_foldera, ime_foldera.replace("-", " ").capitalize())
         
-        # Kreiranje konačnog sadržaja fajla: Dugme nazad -> Naslov -> Tekst
-        sadrzaj = f"{dugme_nazad}# {naslov_lekcije}\n\n{tekst_pitanja}"
+        # Početni sadržaj za automatski index.md
+        index_sadrzaj = f"[🔙 Nazad](../index.md)\n\n# {naslov_indeksa_str}\n\n"
         
-        # Upisivanje u fajl
-        with open(puna_putanja, "w", encoding="utf-8") as f:
-            f.write(sadrzaj)
+        # 2. Generisanje svakog .md fajla u direktorijumu
+        for fajl in fajlovi:
+            puna_putanja = os.path.join(folder_putanja, fajl)
+            
+            # Ekstrakcija i formatiranje naslova iz imena fajla 
+            naslov_lekcije = fajl.replace(".md", "").replace("-", " ").capitalize()
+            
+            # Kreiranje konačnog sadržaja fajla
+            sadrzaj = f"{dugme_nazad}# {naslov_lekcije}\n\n{tekst_pitanja}"
+            
+            # Upisivanje u specifični fajl lekcije
+            with open(puna_putanja, "w", encoding="utf-8") as f:
+                f.write(sadrzaj)
+            
+            # Dodavanje reference u index.md
+            index_sadrzaj += f"- [{naslov_lekcije}](./{fajl})\n"
+            
+        # 3. Upisivanje zbirnog index.md fajla za taj folder
+        puna_putanja_indeksa = os.path.join(folder_putanja, "index.md")
+        with open(puna_putanja_indeksa, "w", encoding="utf-8") as f:
+            f.write(index_sadrzaj)
+            
+    except Exception as e:
+        print(f"❌ Došlo je do greške prilikom kreiranja foldera {folder_putanja}: {e}")
 
-print("Skripta je uspesno kreirala sve foldere i fajlove! 'Nazad' dugme je uspesno dodato svuda.")
+print("✅ Skripta je uspešno kreirala sve foldere, fajlove lekcija sa 'Nazad' dugmetom i index.md fajlove!")
