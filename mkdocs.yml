@@ -30,7 +30,19 @@ nav:
     - druga-godina/index.md
     - Imunologija: druga-godina/imunologija/index.md
     - Medicinska fiziologija: druga-godina/medicinska-fiziologija/index.md
-    - Medicinska biohemija: druga-godina/medicinska-biohemija/index.md
+    - Medicinska biohemija:
+      - druga-godina/medicinska-biohemija/index.md
+      - Proteini - struktura, funkcija i sinteza: druga-godina/medicinska-biohemija/proteini/index.md
+      - Enzimi: druga-godina/medicinska-biohemija/enzimi/index.md
+      - Metabolizam i digestija: druga-godina/medicinska-biohemija/metabolizam-i-digestija/index.md
+      - Respiratorni lanac: druga-godina/medicinska-biohemija/respiratorni-lanac/index.md
+      - Ugljeni hidrati: druga-godina/medicinska-biohemija/ugljeni-hidrati/index.md
+      - Lipidi: druga-godina/medicinska-biohemija/lipidi/index.md
+      - Metabolizam proteina i aminokiselina: druga-godina/medicinska-biohemija/metabolizam-proteina/index.md
+      - Metabolizam nukleotida i nukleinske kiseline: druga-godina/medicinska-biohemija/metabolizam-nukleotida/index.md
+      - Signalni putevi: druga-godina/medicinska-biohemija/signalni-putevi/index.md
+      - Vitamini: druga-godina/medicinska-biohemija/vitamini/index.md
+      - Regulacija metabolizma i biohemija tkiva: druga-godina/medicinska-biohemija/regulacija-metabolizma/index.md
     - Mikrobiologija: druga-godina/mikrobiologija/index.md
   - Treća godina:
     - treca-godina/index.md
