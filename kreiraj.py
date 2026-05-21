@@ -205,7 +205,7 @@ naslovi_indeksa = {
 }
 
 # Definišemo Markdown link za nazad 
-dugme_nazad = "[🔙 Nazad](../)\n\n"
+dugme_nazad = "[🔙 Nazad na pitanja](../)\n\n"
 
 # --- KOD ZA GENERISANJE FAJLOVA ---
 
@@ -219,7 +219,7 @@ for folder_putanja, fajlovi in struktura.items():
         naslov_indeksa_str = naslovi_indeksa.get(ime_foldera, ime_foldera.replace("-", " ").capitalize())
         
         # Početni sadržaj za automatski index.md
-        index_sadrzaj = f"[🔙 Nazad](../index.md)\n\n# {naslov_indeksa_str}\n\n"
+        index_sadrzaj = f"[🔙 Nazad na pitanja](../index.md)\n\n# {naslov_indeksa_str}\n\n"
         
         # 2. Generisanje svakog .md fajla u direktorijumu
         for fajl in fajlovi:
