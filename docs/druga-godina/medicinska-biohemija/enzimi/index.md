@@ -1,7 +1,7 @@
 # Enzimi
 
 1. [Opšte osobine enzima i struktura molekula enzima](opste-osobine-enzima-i-struktura-molekula-enzima.md)
-2. [Kvaternerna struktura enzima. Izoenzimi](kvaternarna-struktura-enzima-izoenzimi.md)
+2. [Kvaternarna struktura enzima. Izoenzimi](kvaternarna-struktura-enzima-izoenzimi.md)
 3. [Struktura aktivnog mesta enzima. Familije enzima](struktura-aktivnog-mesta-enzima-familije-enzima.md)
 4. [Nomenklatura i klasifikacija enzima](nomenklatura-i-klasifikacija-enzima.md)
 5. [Mehanizmi enzimske katalize](mehanizmi-enzimske-katalize.md)
@@ -21,4 +21,4 @@
 19. [Klinički značaj određivanja aktivnosti $\gamma$-glutamil transferaze i alkalne fosfataze](ggt.md)
 20. [Klinički značaj određivanja aktivnosti kreatin kinaze](ck.md)
 21. [Klinički značaj određivanja aktivnosti laktat dehidrogenaze](ldh.md)
-22. [Klinički značaj određivanja aktivnosti lipaze, fosfolipaze i amilaze](.md)
+22. [Klinički značaj određivanja aktivnosti lipaze, fosfolipaze i amilaze](amilaza.md)
