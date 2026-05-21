@@ -21,9 +21,23 @@ theme:
         
 nav:
   - Početna: index.md
-  - Prva godina: prva-godina/index.md
-  - Druga godina: druga-godina/index.md
-  - Treća godina: treca-godina/index.md
+  - Prva godina:
+    - prva-godina/index.md
+    - Anatomija: prva-godina/anatomija/index.md
+    - Histologija i embriologija: prva-godina/histologija-i-embriologija/index.md
+    - Genetika: prva-godina/genetika/index.md
+  - Druga godina:
+    - druga-godina/index.md
+    - Imunologija: druga-godina/imunologija/index.md
+    - Medicinska fiziologija: druga-godina/medicinska-fiziologija/index.md
+    - Medicinska biohemija: druga-godina/medicinska-biohemija/index.md
+    - Mikrobiologija: druga-godina/mikrobiologija/index.md
+  - Treća godina:
+    - treca-godina/index.md
+    - Patologija: treca-godina/patologija/index.md
+    - Patofiziologija: treca-godina/patofiziologija/index.md
+    - Farmakologija: treca-godina/farmakologija/index.md
+    - Epidemiologija: treca-godina/epidemiologija/index.md
   - Četvrta godina: cetvrta-godina/index.md
   - Peta godina: peta-godina/index.md
   - Šesta godina: sesta-godina/index.md
