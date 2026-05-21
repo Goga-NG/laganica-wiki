@@ -16,7 +16,7 @@ struktura = {
         "opste-osobine-enzima-i-struktura-molekula-enzima.md",
         "kvaternarna-struktura-enzima-izoenzimi.md",
         "struktura-aktivnog-mesta-enzima-familije-enzima.md",
-        "nomenklatura-i-klasifikacija-enzima.md",
+        "nomenklatura-i-klasifikacija-enzima.md",  # Popravljeni razmaci u crtice
         "mehanizmi-enzimske-katalize.md",
         "kinetika-enzimske-katalize.md",
         "inhibicija-enzima-bioloski-znacaj-reverzibilne-i-ireverzibilne-inhibicije-enzima.md",
@@ -38,19 +38,22 @@ struktura = {
     ]
 }
 
+# Identitičan tekst i link kakav imaš u proteinima
 sadrzaj = "# *Pitanje nije završeno*\n\n[← Nazad na pitanja](index.md)\n"
 
 for folder, fajlovi in struktura.items():
+    # Kreira folder ako ne postoji
     os.makedirs(folder, exist_ok=True)
     
     for f in fajlovi:
         putanja = os.path.join(folder, f)
         
-        # Ako fajl postoji, brišemo ga da bismo bili sigurni da nema starih grešaka
+        # Prvo obrišemo stari fajl ako postoji, da očistimo eventualne greške
         if os.path.exists(putanja):
             os.remove(putanja)
             
+        # Upisujemo svež sadržaj sa linkom
         with open(putanja, "w", encoding="utf-8") as file:
             file.write(sadrzaj)
-            
-print("Svi fajlovi su uspešno obrisani i ponovo kreirani sa ispravnim linkom!")
+
+print("Svi fajlovi u enzimima su uspešno prepisani i sada imaju identičan hiperlink!")
