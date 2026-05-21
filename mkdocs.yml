@@ -37,7 +37,6 @@ nav:
     - Imunologija: druga-godina/imunologija/index.md
     - Medicinska fiziologija: druga-godina/medicinska-fiziologija/index.md
     - Medicinska biohemija:
-      
       - Proteini - struktura, funkcija i sinteza: druga-godina/medicinska-biohemija/proteini/index.md 
       - Enzimi: druga-godina/medicinska-biohemija/enzimi/index.md
       - Metabolizam i digestija: druga-godina/medicinska-biohemija/metabolizam-i-digestija/index.md
@@ -51,8 +50,10 @@ nav:
       - Regulacija metabolizma i biohemija tkiva: druga-godina/medicinska-biohemija/regulacija-metabolizma/index.md
     - Mikrobiologija: druga-godina/mikrobiologija/index.md
   - Treća godina:
-    
-    - Patologija: treca-godina/patologija/index.md
+    - Patologija:
+      - Opšta patologija: treca-godina/patologija/opsta-patologija/index.md
+      - Patologija tumora: treca-godina/patologija/patologija-tumora/index.md
+      - Specijalna patologija: treca-godina/patologija/specijalna-patologija/index.md
     - Patofiziologija: treca-godina/patofiziologija/index.md
     - Farmakologija: treca-godina/farmakologija/index.md
     - Epidemiologija: treca-godina/epidemiologija/index.md
