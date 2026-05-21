@@ -1,0 +1,7 @@
+site_name: Laganica Wiki
+site_url: https://goga-ng.github.io/laganica-wiki/
+repo_url: https://github.com/Goga-NG/laganica-wiki
+repo_name: Goga-NG/laganica-wiki
+
+theme:
+  name: material
