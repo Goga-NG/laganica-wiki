@@ -3,7 +3,7 @@ site_url: https://goga-ng.github.io/laganica-wiki/
 
 theme:
   name: material
-  logo: docs\assets\hospital.png   
+  logo: assets/hospital.png
   palette:
     - scheme: default
       primary: indigo
