@@ -2,3 +2,17 @@
   display: none;
 }
 
+.go-to-bottom {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--md-primary-fg-color);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 999;
+}
