@@ -1,5 +1,5 @@
 # Endogene pigmentacije
 
-*Pitanje nije završeno*
+[Klikni ovde](patoloska-pigmentacija.md)
 
 [← Nazad na pitanja](index.md)

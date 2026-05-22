@@ -1,5 +1,5 @@
 # Reverzibilne ultrastrukturne promene oštećene ćelije
 
-*Pitanje nije završeno*
+[Klikni ovde](mehanizam-celijskog-ostecenja.md)
 
 [← Nazad na pitanja](index.md)
