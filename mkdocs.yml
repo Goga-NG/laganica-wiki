@@ -20,6 +20,12 @@ theme:
         
 extra_css:
   - stylesheets/extra.css
+  
+extra:
+  generator: false
+
+extra_javascript:
+  - javascripts/theme.js
 
 plugins:
   - search
