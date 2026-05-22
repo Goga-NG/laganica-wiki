@@ -1,16 +1,22 @@
-# Metode u patologiji
+## Metode u patologiji
 
 Za proučavanje patologije koriste se različite metode:
-	1) makroskopska metoda
-	2) mikroskopska metoda
-	3) molekularna, citogenetička, eksperimentalna metoda i dr. 
+
+	1) makroskopska metoda;
+	
+	2) mikroskopska metoda;
+	
+	3) molekularna, citogenetička, eksperimentalna metoda i dr; 
 	
 Na osnovu metode koja dominira u proučavanju patologije, patologija može da bude:
-	1) patološka anatomija (patoanatomija)
-	2) patološka histologija (patohistologija)
-	3) eksperimentalna patologija 
+
+	1) patološka anatomija (patoanatomija);
 	
-# MAKROSKOPSKA PROUČAVANJA U PATOLOGIJI
+	2) patološka histologija (patohistologija);
+	
+	3) eksperimentalna patologija ;
+	
+## Makroskopska proučavanja u patologiji
 
 Podrazumevaju analizu promena koje su vidljive golim okom na biopsijskom materijalu, hirurškom materijalu ili materijalu koji je dobijen obdukcijom. U nekim slučajevima, makroskopska analiza je značajnija od mikroskopske (npr. edem i promene na srčanim zaliscima). Makroskopski opis podrazumeva: veličinu, oblik, boju, konzistenciju, odnos sa okolnim strukturama 
 
