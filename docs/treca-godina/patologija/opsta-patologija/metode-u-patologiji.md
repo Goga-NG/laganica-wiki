@@ -42,8 +42,8 @@ Uzorak koji se analizira treba da bude debljine 2-3x10-15mm.
 
 Za mikroskopsku analizu, uzorak se uzima najčešće biopsijom koja može biti:
 
-1) inciziona - obezbeđuje deo lezije i ima samo dijagnostički značaj;
-2) eksciziona - podrazumeva uzimanje čitave lezije, često i rub okolnog zdravog tkiva i ima i dijagnostički i terapijski značaj;
+ - inciziona - obezbeđuje deo lezije i ima samo dijagnostički značaj
+ - eksciziona - podrazumeva uzimanje čitave lezije, često i rub okolnog zdravog tkiva i ima i dijagnostički i terapijski značaj
 
 Osnovni principi uzimanja biopcijskog materijala:
 
@@ -63,9 +63,9 @@ Biopsia ex	tempore (nije zlatni standard) je proces obrade i dijagnostike se oba
 
 Od uzetog materijala se prave i trajni preparati kojim se kontroliše postavljena dijagnoza ova procedura treba da odgovori na tri pitanja:
 
-1) Da li je materijal za dijagnostiku dobar ili nije?	
-2) Da li je lezija tumor, i ako jeste, da li je benigni ili je maligni?
-3) Koje su hirurške granice lezije?
+ - Da li je materijal za dijagnostiku dobar ili nije?	
+ - Da li je lezija tumor, i ako jeste, da li je benigni ili je maligni?
+ - Koje su hirurške granice lezije?
 
 Metoda izrade trajnih	 preparata (zlatni standard) podrazumeva obradu tkiva na sledeći način: fiksiranje u formalinu → kalupljenje u parafinu → bojenje. Ukoliko uzorak sadrži kalcifikovane delove ili se radi o koštanom tkivu, neophodno je izvršiti dekalcifikaciju mravljom kiselinom.
 
