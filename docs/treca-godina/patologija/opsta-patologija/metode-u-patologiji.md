@@ -64,24 +64,24 @@ Biopsia ex	tempore (nije zlatni standard) je proces obrade i dijagnostike se oba
 Od uzetog materijala se prave i trajni preparati kojim se kontroliše postavljena dijagnoza ova procedura treba da odgovori na tri pitanja:
 
 1) Da li je materijal za dijagnostiku dobar ili nije?	
-2) Da li je lezija tumor, i ako jeste, da li je benigni ili je maligni?	
+2) Da li je lezija tumor, i ako jeste, da li je benigni ili je maligni?
 3) Koje su hirurške granice lezije?
 
-Metoda	izrade	trajnih	preparata (zlatni standard) podrazumeva obradu tkiva na sledeći način: fiksiranje u formalinu → kalupljenje u parafinu → bojenje. Ukoliko uzorak sadrži kalcifikovane delove ili se radi o koštanom tkivu, neophodno je izvršiti dekalcifikaciju mravljom kiselinom.
+Metoda izrade trajnih	 preparata (zlatni standard) podrazumeva obradu tkiva na sledeći način: fiksiranje u formalinu → kalupljenje u parafinu → bojenje. Ukoliko uzorak sadrži kalcifikovane delove ili se radi o koštanom tkivu, neophodno je izvršiti dekalcifikaciju mravljom kiselinom.
 
 ## Bojenje tkiva
 
-   - Vrši se kako bi se naglasio kontrast između tkivnih komponenti.
-   - Najčešće se koriste dve boje suprotnog naboja: kisele (anjonske) i bazne (katjonske).
-   - Standardno bojenje je hematoksilin-eozin (H/E) bojenje.
-   
-    	Hematoksilin - bazna boja koja boji kisele strukture u plavo
-   	Eozin - kisela boja boji bazne strukture u crveno
+ - Vrši se kako bi se naglasio kontrast između tkivnih komponenti.
+ - Najčešće se koriste dve boje suprotnog naboja: kisele (anjonske) i bazne (katjonske).
+ - Standardno bojenje je hematoksilin-eozin (H/E) bojenje.
+ 
+   Hematoksilin - bazna boja koja boji kisele strukture u plavo
+   Eozin - kisela boja boji bazne strukture u crveno
    		
-   - Zato uvodimo pojmove kao sto su:
-   
-    	Bazofilija - osobina ćelijskih i tkivnih komponenti da se boje baznim bojama (kisele su)
-    	Acidofilija (eozinofilija) - osobina ćelijskih i tkivnih komponenti da se boje kiselim bojama (bazne su)
+ - Zato uvodimo pojmove kao sto su:
+ 
+   Bazofilija - osobina ćelijskih i tkivnih komponenti da se boje baznim bojama (kisele su)
+   Acidofilija (eozinofilija) - osobina ćelijskih i tkivnih komponenti da se boje kiselim bojama (bazne su)
 
 Specijalna bojenja:
 
@@ -127,8 +127,8 @@ Primeri značajnijih imunohistohemijskih markera:
 ## Protočna (flow) citofluorimetrija
 
  - Metoda kojom se ćelijska suspenzija propušta kroz svetlosni snop u cilju analize njihove veličine, varijabilnosti, sadržaja DNK itd.
- - Rezultati se konvertuju u elektronske signale i prezentuju u vidu histograma
- - Analiza krvi i drugih telesnih tečnosti, dijagnostika leukemija i limfoma, pomoćna dijagnostika solidnih tumora, subklasifikacija graničnih lezija, analiza terapijskih efekata
+ - Rezultati se konvertuju u elektronske signale i prezentuju u vidu histograma.
+ - Analiza krvi i drugih telesnih tečnosti, dijagnostika leukemija i limfoma, pomoćna dijagnostika solidnih tumora, subklasifikacija graničnih lezija, analiza terapijskih efekata.
 
 
 [Sledeće pitanje →](predmet-proucavanja-patologije.md)
