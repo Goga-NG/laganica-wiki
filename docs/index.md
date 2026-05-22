@@ -1,1 +1,1 @@
-# ovo editujes preko indeksa u docs
+# pogledajte "metode u patologiji" i recite mi jel vam se sviđa način navođenja
