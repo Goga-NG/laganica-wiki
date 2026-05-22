@@ -45,7 +45,7 @@ Za mikroskopsku analizu, uzorak se uzima najčešće biopsijom koja može biti:
  - inciziona - obezbeđuje deo lezije i ima samo dijagnostički značaj
  - eksciziona - podrazumeva uzimanje čitave lezije, često i rub okolnog zdravog tkiva i ima i dijagnostički i terapijski značaj
 
-Osnovni principi uzimanja biopcijskog materijala:
+Osnovni principi uzimanja biopsijskog materijala:
 
 - Kod velikih lezija, neophodno je uzeti ili ceo organ ili više uzoraka sa različitih mesta.
 - Kod ulceroznih lezija ne treba uzimati nekrotični materijal.
@@ -55,11 +55,13 @@ Osnovni principi uzimanja biopcijskog materijala:
 
 Citološki metod podrazumeva analizu ćelija dobijenih na razmazu na pločici (vaginalni sekret, likvor, punktati ili uzorak uzet punkcionom biopsijom).
 
-- punkciona (aspiraciona) biopsija - uzimanje delića organa ili tkiva pomoću tanke igle i njegova dalja analiza citološkim metodom (dijagnoza tumora kada je njegova lokalizacija ili stanje pacijenta ne dozvoljavaju sprovođenje hirurške biopsije - najvažniji primeri su jetra, bubreg, prostata).
+- punkciona (aspiraciona) biopsija - uzimanje delića organa ili tkiva pomoću tanke igle i njegova dalja analiza citološkim metodom
+(dijagnoza tumora kada je njegova lokalizacija ili stanje pacijenta ne dozvoljavaju sprovođenje hirurške biopsije - najvažniji primeri su jetra, bubreg, prostata).
 
 Histološki metod je najvažniji aspekt patološke dijagnostike koji se može obaviti u toku operacije (biopsia ex tempore) ili kasnije, metodom izrade trajnih preparata. 
 
-Biopsia ex	tempore (nije zlatni standard) je proces obrade i dijagnostike se obavlja u toku same operacije → pacijent se uvede u anesteziju, uzmu se uzorci tkiva, šalju patologu koji ih laboratorijski obrađuje (seče, fiksira tečnim azotom i boji H/E) i postavlja dijagnozu → cela procedura traje manje od 30 minuta.
+Biopsia ex	tempore (nije zlatni standard) je proces obrade i dijagnostike se obavlja u toku same operacije → pacijent se uvede u anesteziju,
+uzmu se uzorci tkiva, šalju patologu koji ih laboratorijski obrađuje (seče, fiksira tečnim azotom i boji H/E) i postavlja dijagnozu → cela procedura traje manje od 30 minuta.
 
 Od uzetog materijala se prave i trajni preparati kojim se kontroliše postavljena dijagnoza ova procedura treba da odgovori na tri pitanja:
 
@@ -67,40 +69,41 @@ Od uzetog materijala se prave i trajni preparati kojim se kontroliše postavljen
  - Da li je lezija tumor, i ako jeste, da li je benigni ili je maligni?
  - Koje su hirurške granice lezije?
 
-Metoda izrade trajnih	 preparata (zlatni standard) podrazumeva obradu tkiva na sledeći način: fiksiranje u formalinu → kalupljenje u parafinu → bojenje. Ukoliko uzorak sadrži kalcifikovane delove ili se radi o koštanom tkivu, neophodno je izvršiti dekalcifikaciju mravljom kiselinom.
+Metoda izrade trajnih	 preparata (zlatni standard) podrazumeva obradu tkiva na sledeći način: fiksiranje u formalinu → kalupljenje u parafinu → bojenje.
+Ukoliko uzorak sadrži kalcifikovane delove ili se radi o koštanom tkivu, neophodno je izvršiti dekalcifikaciju mravljom kiselinom.
 
 ## Bojenje tkiva
 
- - Vrši se kako bi se naglasio kontrast između tkivnih komponenti.
- - Najčešće se koriste dve boje suprotnog naboja: kisele (anjonske) i bazne (katjonske).
- - Standardno bojenje je hematoksilin-eozin (H/E) bojenje.
+Vrši se kako bi se naglasio kontrast između tkivnih komponenti.
+Najčešće se koriste dve boje suprotnog naboja: kisele (anjonske) i bazne (katjonske).
+Standardno bojenje je hematoksilin-eozin (H/E) bojenje.
  
-   Hematoksilin - bazna boja koja boji kisele strukture u plavo
-   Eozin - kisela boja boji bazne strukture u crveno
+   	Hematoksilin - bazna boja koja boji kisele strukture u plavo
+   	Eozin - kisela boja boji bazne strukture u crveno
    		
- - Zato uvodimo pojmove kao sto su:
+Zato uvodimo pojmove kao sto su:
  
-   Bazofilija - osobina ćelijskih i tkivnih komponenti da se boje baznim bojama (kisele su)
-   Acidofilija (eozinofilija) - osobina ćelijskih i tkivnih komponenti da se boje kiselim bojama (bazne su)
+   	Bazofilija - osobina ćelijskih i tkivnih komponenti da se boje baznim bojama (kisele su)
+   	Acidofilija (eozinofilija) - osobina ćelijskih i tkivnih komponenti da se boje kiselim bojama (bazne su)
 
 Specijalna bojenja:
 
-  - PAS (Periodic acid schiff) - glikogen, bazalne membrane, gljive, paraziti
-  - Retikulinsko bojenje - retikularna vlakna
-  - PTAH - intracitoplazmatski filamenti mišića
-  - Perls - hemosiderin
-  - Acian blue - mucin
-  - Massion Fontana - melanin
-  - Massion Trihromno - kolagena vlakna (akcentira fibrozu)
-  - Sudan, Oil Red O - lipidi (tkivo se boji živo, nikako ne sme da se provlači kroz formalin ili alkohol)
-  - Gimza bojenje - Helicobacter pylori
+  	- PAS (Periodic acid schiff) - glikogen, bazalne membrane, gljive, paraziti
+  	- Retikulinsko bojenje - retikularna vlakna
+  	- PTAH - intracitoplazmatski filamenti mišića
+  	- Perls - hemosiderin
+  	- Acian blue - mucin
+  	- Massion Fontana - melanin
+  	- Massion Trihromno - kolagena vlakna (akcentira fibrozu)
+  	- Sudan, Oil Red O - lipidi (tkivo se boji živo, nikako ne sme da se provlači kroz formalin ili alkohol)
+  	- Gimza bojenje - Helicobacter pylori
 
 Biopsija bubrega - rutinski se tkivo boji:
 
- - H/E bojenje
- - PAS bojenje
- - Massion Trihromno
- - Silver bojenje
+ 	- H/E bojenje
+ 	- PAS bojenje
+ 	- Massion Trihromno
+ 	- Silver bojenje
   
 ## Imunohistohemijska metoda
 
@@ -111,18 +114,18 @@ Biopsija bubrega - rutinski se tkivo boji:
 
 Primeri značajnijih imunohistohemijskih markera:
 
- - Aktin - mišićne i mioepitelne ćelije i njihovi tumori
- - Dezmin - tumori glatkih i poprečno prugastih mišića
- - Vimentin - mezenhimalne ćelije
- - HMB45, Melan A - melanociti
- - EMA (epithelial membrane antigen) - epitelne ćelije
- - p63 - pločasto slojeviti epitel
- - LCA (leukocyte common antigen) - leukociti i limfoidni tumori
- - PSA (prostate specific antigen) - tumori prostate
- - NSE (neuron specific enolase) - neuroektodermalni tumori
- - S-100 protein - melanociti, hondrociti, adipociti, Švanove ćelije, karcinoidi
- - Hromogranin, sinaptofizin - neuroendokrini tumori
- - Citokeratin (CK) - endodermalni i neuroendodermalni tumori
+ 	- Aktin - mišićne i mioepitelne ćelije i njihovi tumori
+ 	- Dezmin - tumori glatkih i poprečno prugastih mišića
+ 	- Vimentin - mezenhimalne ćelije
+ 	- HMB45, Melan A - melanociti
+ 	- EMA (epithelial membrane antigen) - epitelne ćelije
+ 	- p63 - pločasto slojeviti epitel
+ 	- LCA (leukocyte common antigen) - leukociti i limfoidni tumori
+ 	- PSA (prostate specific antigen) - tumori prostate
+ 	- NSE (neuron specific enolase) - neuroektodermalni tumori
+ 	- S-100 protein - melanociti, hondrociti, adipociti, Švanove ćelije, karcinoidi
+ 	- Hromogranin, sinaptofizin - neuroendokrini tumori
+ 	- Citokeratin (CK) - endodermalni i neuroendodermalni tumori
 
 ## Protočna (flow) citofluorimetrija
 
