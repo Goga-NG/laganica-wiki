@@ -1,5 +1,5 @@
 # Organizacija
 
-*Pitanje nije završeno*
+[Klikni ovde](zarastanje.rana.md)
 
 [← Nazad na pitanja](index.md)
