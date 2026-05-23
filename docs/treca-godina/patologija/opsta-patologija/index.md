@@ -22,7 +22,7 @@
 18. [Patološka pigmentacija](patoloska-pigmentacija.md)
 19. [Endogene pigmentacije](endogene-pigmentacije.md)
 20. [Hemosideroza](hemosideroza.md)
-21. [žutica](zutica.md)
+21. [Žutica](zutica.md)
 22. [Patološka kalcifikacija](patoloska-kalcifikacija.md)
 23. [Stvaranje kamenova](stvaranje-kamenova.md)
 24. [Nutritivne bolesti](nutritivne-bolesti.md)
