@@ -78,32 +78,32 @@ Vrši se kako bi se naglasio kontrast između tkivnih komponenti.
 Najčešće se koriste dve boje suprotnog naboja: kisele (anjonske) i bazne (katjonske).
 Standardno bojenje je hematoksilin-eozin (H/E) bojenje.
  
-   	Hematoksilin - bazna boja koja boji kisele strukture u plavo
-   	Eozin - kisela boja boji bazne strukture u crveno
+ - Hematoksilin - bazna boja koja boji kisele strukture u plavo
+ - Eozin - kisela boja boji bazne strukture u crveno
    		
 Zato uvodimo pojmove kao sto su:
  
-   	Bazofilija - osobina ćelijskih i tkivnih komponenti da se boje baznim bojama (kisele su)
-   	Acidofilija (eozinofilija) - osobina ćelijskih i tkivnih komponenti da se boje kiselim bojama (bazne su)
+ - Bazofilija - osobina ćelijskih i tkivnih komponenti da se boje baznim bojama (kisele su)
+ - Acidofilija (eozinofilija) - osobina ćelijskih i tkivnih komponenti da se boje kiselim bojama (bazne su)
 
 Specijalna bojenja:
 
-  	- PAS (Periodic acid schiff) - glikogen, bazalne membrane, gljive, paraziti
-  	- Retikulinsko bojenje - retikularna vlakna
-  	- PTAH - intracitoplazmatski filamenti mišića
-  	- Perls - [hemosiderin](hemosideroza.md)
-  	- Acian blue - mucin
-  	- Massion Fontana - melanin
-  	- Massion Trihromno - kolagena vlakna (akcentira fibrozu)
-  	- Sudan, Oil Red O - lipidi (tkivo se boji živo, nikako ne sme da se provlači kroz formalin ili alkohol)
-  	- Gimza bojenje - Helicobacter pylori
+  - PAS (Periodic acid schiff) - glikogen, bazalne membrane, gljive, paraziti
+  - Retikulinsko bojenje - retikularna vlakna
+  - PTAH - intracitoplazmatski filamenti mišića
+  - Perls - [hemosiderin](hemosideroza.md)
+  - Acian blue - mucin
+  - Massion Fontana - melanin
+  - Massion Trihromno - kolagena vlakna (akcentira fibrozu)
+  - Sudan, Oil Red O - lipidi (tkivo se boji živo, nikako ne sme da se provlači kroz formalin ili alkohol)
+  - Gimza bojenje - Helicobacter pylori
 
 Biopsija bubrega - rutinski se tkivo boji:
 
- 	- H/E bojenje
- 	- PAS bojenje
- 	- Massion Trihromno
- 	- Silver bojenje
+ - H/E bojenje
+ - PAS bojenje
+ - Massion Trihromno
+ - Silver bojenje
   
 ## Imunohistohemijska metoda
 
@@ -114,18 +114,18 @@ Biopsija bubrega - rutinski se tkivo boji:
 
 Primeri značajnijih imunohistohemijskih markera:
 
- 	- Aktin - mišićne i mioepitelne ćelije i njihovi tumori
- 	- Dezmin - tumori [glatkih](../patologija-tumora/tumori-glatkog-misicnog-tkiva.md) i [poprečno prugastih mišića](../patologija-tumora/tumori-poprecno-prugastog-misicnog-tkiva.md)
- 	- Vimentin - mezenhimalne ćelije
- 	- HMB45, Melan A - melanociti
- 	- EMA (epithelial membrane antigen) - epitelne ćelije
- 	- p63 - pločasto slojeviti epitel
- 	- LCA (leukocyte common antigen) - leukociti i limfoidni tumori
- 	- PSA (prostate specific antigen) - [tumori prostate](../patologija-tumora/tumori-prostate.md)
- 	- NSE (neuron specific enolase) - neuroektodermalni tumori
- 	- S-100 protein - melanociti, hondrociti, adipociti, Švanove ćelije, karcinoidi
- 	- Hromogranin, sinaptofizin - neuroendokrini tumori
- 	- Citokeratin (CK) - endodermalni i neuroendodermalni tumori
+ - Aktin - mišićne i mioepitelne ćelije i njihovi tumori
+ - Dezmin - tumori [glatkih](../patologija-tumora/tumori-glatkog-misicnog-tkiva.md) i [poprečno prugastih mišića](../patologija-tumora/tumori-poprecno-prugastog-misicnog-tkiva.md)
+ - Vimentin - mezenhimalne ćelije
+ - HMB45, Melan A - melanociti
+ - EMA (epithelial membrane antigen) - epitelne ćelije
+ - p63 - pločasto slojeviti epitel
+ - LCA (leukocyte common antigen) - leukociti i limfoidni tumori
+ - PSA (prostate specific antigen) - [tumori prostate](../patologija-tumora/tumori-prostate.md)
+ - NSE (neuron specific enolase) - neuroektodermalni tumori
+ - S-100 protein - melanociti, hondrociti, adipociti, Švanove ćelije, karcinoidi
+ - Hromogranin, sinaptofizin - neuroendokrini tumori
+ - Citokeratin (CK) - endodermalni i neuroendodermalni tumori
 
 ## Protočna (flow) citofluorimetrija
 
