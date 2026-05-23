@@ -19,7 +19,7 @@ Na osnovu metode koja dominira u proučavanju patologije, patologija može da bu
 ## Makroskopska proučavanja u patologiji
 
 Podrazumevaju analizu promena koje su vidljive golim okom na biopsijskom materijalu, hirurškom materijalu ili materijalu koji je dobijen obdukcijom. 
-U nekim slučajevima, makroskopska analiza je značajnija od mikroskopske (npr. edem i promene na srčanim zaliscima). 
+U nekim slučajevima, makroskopska analiza je značajnija od mikroskopske (npr. [edem](edem.md) i promene na srčanim zaliscima). 
 Makroskopski opis podrazumeva: veličinu, oblik, boju, konzistenciju, odnos sa okolnim strukturama. 
 
 ### Postmortalna makroskopska analiza (autopsija, obdukcija)
@@ -49,7 +49,7 @@ Osnovni principi uzimanja biopsijskog materijala:
 
 - Kod velikih lezija, neophodno je uzeti ili ceo organ ili više uzoraka sa različitih mesta.
 - Kod ulceroznih lezija ne treba uzimati nekrotični materijal.
-- Biopsija treba biti dovoljno duboka da bi se procenio odnos strome i tumora i njegovo poreklo (npr. ukoliko se sumnja da je tumor poreklom od kosti, treba obavezno uzeti i kost). 
+- Biopsija treba biti dovoljno duboka da bi se procenio odnos strome i [tumora](../patologija-tumora/tumori-terminologija-i-klasifikacija.md) i njegovo poreklo (npr. ukoliko se sumnja da je [tumor poreklom od kosti](../patologija-tumora/klasifikacija-tumora-kostiju.md), treba obavezno uzeti i kost). 
 - Biopsijski materijal je neophodno adekvatno spakovati u posudu sa širokim otvorom i transportovati u dovoljnoj količini fiksativa (10% puferovani formalin) kako bi se izbeglo oštećenje materijala. 
 - Zapremina formalina mora da bude 10 puta veća od zapremine uzorka.
 
@@ -91,7 +91,7 @@ Specijalna bojenja:
   	- PAS (Periodic acid schiff) - glikogen, bazalne membrane, gljive, paraziti
   	- Retikulinsko bojenje - retikularna vlakna
   	- PTAH - intracitoplazmatski filamenti mišića
-  	- Perls - hemosiderin
+  	- Perls - [hemosiderin](hemosideroza.md)
   	- Acian blue - mucin
   	- Massion Fontana - melanin
   	- Massion Trihromno - kolagena vlakna (akcentira fibrozu)
@@ -115,13 +115,13 @@ Biopsija bubrega - rutinski se tkivo boji:
 Primeri značajnijih imunohistohemijskih markera:
 
  	- Aktin - mišićne i mioepitelne ćelije i njihovi tumori
- 	- Dezmin - tumori glatkih i poprečno prugastih mišića
+ 	- Dezmin - tumori [glatkih](../patologija-tumora/tumori-glatkog-misicnog-tkiva.md) i [poprečno prugastih mišića](../patologija-tumora/tumori-poprecno-prugastog-misicnog-tkiva.md)
  	- Vimentin - mezenhimalne ćelije
  	- HMB45, Melan A - melanociti
  	- EMA (epithelial membrane antigen) - epitelne ćelije
  	- p63 - pločasto slojeviti epitel
  	- LCA (leukocyte common antigen) - leukociti i limfoidni tumori
- 	- PSA (prostate specific antigen) - tumori prostate
+ 	- PSA (prostate specific antigen) - [tumori prostate](../patologija-tumora/tumori-prostate.md)
  	- NSE (neuron specific enolase) - neuroektodermalni tumori
  	- S-100 protein - melanociti, hondrociti, adipociti, Švanove ćelije, karcinoidi
  	- Hromogranin, sinaptofizin - neuroendokrini tumori
@@ -131,7 +131,7 @@ Primeri značajnijih imunohistohemijskih markera:
 
  - Metoda kojom se ćelijska suspenzija propušta kroz svetlosni snop u cilju analize njihove veličine, varijabilnosti, sadržaja DNK itd.
  - Rezultati se konvertuju u elektronske signale i prezentuju u vidu histograma.
- - Analiza krvi i drugih telesnih tečnosti, dijagnostika leukemija i limfoma, pomoćna dijagnostika solidnih tumora, subklasifikacija graničnih lezija, analiza terapijskih efekata.
+ - Analiza krvi i drugih telesnih tečnosti, dijagnostika [leukemija](../patologija-tumora/patologija-leukemija.md) i limfoma, pomoćna dijagnostika solidnih tumora, subklasifikacija graničnih lezija, analiza terapijskih efekata.
 
 
 [Sledeće pitanje →](predmet-proucavanja-patologije.md)
