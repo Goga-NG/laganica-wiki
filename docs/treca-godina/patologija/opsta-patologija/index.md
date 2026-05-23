@@ -1,5 +1,7 @@
 # Opšta patologija
 
+*Pisano po Stefanovoj skripti*
+
 1. [Metode u patologiji](metode-u-patologiji.md)
 2. [Predmet proučavanja patologije](predmet-proucavanja-patologije.md)
 3. [Hipertrofija](hipertrofija.md)
