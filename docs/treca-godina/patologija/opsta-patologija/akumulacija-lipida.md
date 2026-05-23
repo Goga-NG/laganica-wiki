@@ -6,7 +6,7 @@ Masti (lipidi) se u organizmu mogu nakupljati zbog:
 	
 	2) genetski uslovljenog nedostatka enzima koji razgrađuje masti -> lipidoze
 
-# Masna promena 
+## Masna promena 
 
 Podrazumeva abnormalno nakupljanje masti, uglavnom u vidu triacilglicerola (TAG), u citoplazmi parenhimskih ćelija koje normalno ne sadrže masti.
 Uglavnom je reverzibilne prirode.
@@ -18,8 +18,8 @@ Obično su zahvaćena ona tkiva koja svoje energetske potrebe pokrivaju mastima 
 - etiologija: alkohol (najčešće), hipoksija, proteinska malnutricija, toksini, gojaznost, diabetes mellitus
 - uglavnom je reverzibilna promena i ne izaziva funkcionalne poremećaje -> osim u slučaju oštećenja hepatocita alkoholom (osnovni supstrat alkoholne masne bolesti jetre) i hepatotoksinima (ugljen-tetrahlorid, fosfor, toksini gljiva)
 
-Makroskopski: u blažim oblicima nema manifestacija, u težim oblicima jetra je uvećana, meke konzistencije i žute boje
-Mikroskopski: hepatociti na H/E bojenju izgledaju identično kao adipociti
+Makroskopski: u blažim oblicima nema manifestacija, u težim oblicima jetra je uvećana, meke konzistencije i žute boje. 
+Mikroskopski: hepatociti na H/E bojenju izgledaju identično kao adipociti.
 
 	1) Sitnokapljičasta (mikrovezikularna) masna promena -> javljaju se male vezikule od masti oko jedra (prethodi krupnokapljičastoj masnoj promeni ili se javlja kod dejstva svih faktora koji deluju akutno te nema vremena da se razvije krupnokapljičasta promena - akutna trovanja, jetra u trudnoći, Raynaud sindrom)
 	
@@ -41,7 +41,7 @@ Mikroskopski: hepatociti na H/E bojenju izgledaju identično kao adipociti
 
 ### Masna promena bubrega
 
-Javlja se kod nefrotskog sindroma: ↑propustljivost GBM za lipide -> ↑filtracija masti -> tubulociti resorbuju mast -> vide se masne kapi u tubulocitima
+Javlja se kod nefrotskog sindroma: ↑propustljivost GBM za lipide -> ↑filtracija masti -> tubulociti resorbuju mast -> vide se masne kapi u tubulocitima.
 
 ## Resorptivna masna promena usled fagocitoze
 
