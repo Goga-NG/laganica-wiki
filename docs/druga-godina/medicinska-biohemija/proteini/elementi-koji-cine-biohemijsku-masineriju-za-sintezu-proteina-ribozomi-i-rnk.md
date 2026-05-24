@@ -22,7 +22,7 @@ Za većinu aminokiselina postoji dva ili više kodona (20 aminokiselina, a 64 ko
 
 Kodon AUG predstavlja START kodon, dok su kodoni UAA, UAG i UGA STOP kodoni, koji signaliziraju prekid sinteze polipeptidnog lanca. STOP kodoni ne kodiraju specifičnu aminokiselinu.
 
-[Kodoni](slike/kodoni.PNG)
+![Kodoni](slike/kodoni.PNG)
 
 Antikodon je komplementaran kodonu, ali ta komplementarnost nije apsolutna. Da je komplementarnost apsolutna, trebalo bi da postoji 61 različita tRNK za 61 kodon koji kodira aminokiselinu, ali slučaj je da postoji oko 40 različitih tRNK.
 Naime, po hipotezi nesigurnog sparivanja ili "wobble" hipotezi, dolazi do nespecifičnog sparivanja treće baze na 5' kraju antikodona.
