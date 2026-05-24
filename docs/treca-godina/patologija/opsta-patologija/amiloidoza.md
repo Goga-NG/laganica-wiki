@@ -2,7 +2,7 @@
 
 Patološko nakupljanje amiloida isključivo u ekstracelularnom prostoru.
 
-## KARAKTERISTIKE AMILOIDA
+## Karakteristike amiloida
 
 Sastav: Fibrilarni protein (90%) + glikoproteini (10%).
 
@@ -35,9 +35,8 @@ Organ je uvećan, čvrst, krut, voštanog sjaja. Parenhim atrofiše usled kompre
 
 - Slezina:
 
-   -"Sago slezina": U beloj pulpi (limfni folikuli).
-    
-   -"Slaninasta slezina": U crvenoj pulpi (zidovi krvnih sudova).
+	-"Sago slezina": U beloj pulpi (limfni folikuli).
+	-"Slaninasta slezina": U crvenoj pulpi (zidovi krvnih sudova).
     
 - Jetra: Deponovanje u Diseovim prostorima i oko sinusoida → atrofija hepatocita.
 
