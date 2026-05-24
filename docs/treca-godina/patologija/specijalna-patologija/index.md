@@ -1,12 +1,12 @@
 # Specijalna patologija
 
-1. [Etiopatogeneza, morfologija i znacaj ateroskleroze](ateroskleroza.md)
+1. [Etiopatogeneza, morfologija i značaj ateroskleroze](ateroskleroza.md)
 2. [Promene na arterijama kod hipertenzije i dijabetesa](arterije-hipertenzija-dijabetes.md)
 3. [Vaskulitisi](vaskulitisi.md)
 4. [Aneurizme](aneurizme.md)
 5. [Patologija vena, kapilara i limfnih sudova](patologija-vena-kapilara-limfnih-sudova.md)
-6. [Srcana insuficijencija i patologija prolaznog ovalnog otvora](srcana-insuficijencija-pfo.md)
-7. [Urodjene srcane mane](urodjene-srcane-mane.md)
+6. [Srčana insuficijencija i patologija prolaznog ovalnog otvora](srcana-insuficijencija-pfo.md)
+7. [Urođene srcane mane](urodjene-srcane-mane.md)
 8. [Etiopatogeneza i klasifikacija ishemijske bolesti srca](ishemijska-bolest-srca.md)
 9. [Hipertenzivne bolesti srca](hipertenzivne-bolesti-srca.md)
 10. [Reumatska groznica](reumatska-groznica.md)
