@@ -2,7 +2,7 @@
 
 ## Aktivacija aminokiselina
 
-Prvi korak biosinteze proteina, koji se odvija u citosolu, je aktivacija aminokiselina.
+Prvi korak biosinteze [proteina](struktura-proteina-nivoi-organizacije-molekula.md), koji se odvija u citosolu, je aktivacija aminokiselina.
 Aktivaciju vrši grupa visokoselektivnih enzima aminoacil-tRNK sintetaze, uz utrošak ATP-a.
 Iz ATP-a se izdvaja pirofosfat, a AMP se vezuje za karboksilnu grupu aminokiseline.
 Aminokiselina se zatim estarskom vezom vezuje za hidroksilnu grupu šećera na 3' kraju tRNK i stvara aminoacil-tRNK, uz odvajanje AMP-a.

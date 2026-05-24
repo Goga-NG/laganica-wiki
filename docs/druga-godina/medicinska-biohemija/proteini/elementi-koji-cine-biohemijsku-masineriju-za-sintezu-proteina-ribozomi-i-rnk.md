@@ -1,6 +1,6 @@
 # Elementi koji čine biohemijsku mašineriju za sintezu proteina: ribozomi i RNK
 
-Translacija je prevođenje informacija redosleda nukleotida iRNK u sekvencu aminokiselina odgovarajućeg proteina.
+Translacija je prevođenje informacija redosleda nukleotida iRNK u sekvencu aminokiselina odgovarajućeg [proteina](struktura-proteina-nivoi-organizacije-molekula.md).
 Glavne komponente translacionog sistema su ribozomi, tRNK, aminoacil-tRNK sintetaza i faktori inicijacije, elongacije i terminacije.
 
 ## Ribozomi
