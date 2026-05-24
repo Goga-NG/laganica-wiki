@@ -31,7 +31,7 @@ Peptidna veza nastaje između α-karboksilne grupe jedne i α-amino grupe druge 
 Veza je parcijalno dvostruka, rigidna (sprečena rotacija N-C) i planarna, zauzima trans konfiguraciju usled sternih interakcija bočnih grupa i nenaelektrisana je, ali polarna.
 Struktura peptida se piše sa leva na desno, N → C. U zavisnosti od sadržaja aminokiselina, peptid može biti kiseo ili bazan.
 
-![Peptidna veza](slike/peptidebond.PNG)
+![Peptidnaveza](slike/peptidebond.PNG)
 
 ### Nivoi organizacije
 
@@ -49,7 +49,7 @@ Stabilizovana je vodoničnim vezama. Razlikujemo sledeće strukture:
 
  - β-nabrana ploča: vodonična veza se stvara između udaljenih aminokiselina istog ili susednog lanca. Razlikujemo β-ploče sa paralelno i antiparalelno postavljenim lancima ili delovima lanca.
 
-![Sekundarna struktura](slike/secstructure.PNG)
+![Sekundarnastruktura](slike/secstructure.PNG)
 
 Određene aminokiseline mogu remetiti stvaranje sekundarnih struktura. Na primer, glutamat ili lizin i arginin ometaju stvaranje vodoničnih veza usled odbijanja naelektrisanih bočnih grupa.
 Prolim nema slobodan vodonik, pa isto remeti stvaranje veze.
@@ -58,7 +58,7 @@ Specifično uređeni delovi sekundarne strukture koji se pojavljuju u više razl
 Primer je motiv cinkovog prsta, koga nalazimo u regulatornim proteinima koji se vezuju za DNK.
 Sadrže Zn povezan sa četiri Cys ili dva Cys i dva His koji su međusobno povezani lancem od dvanaest aminokiselina.
 
-![Strukturni motivi](slike/cinkovprst.PNG)
+![Strukturnimotivi](slike/cinkovprst.PNG)
 
 #### Tercijarna struktura
 

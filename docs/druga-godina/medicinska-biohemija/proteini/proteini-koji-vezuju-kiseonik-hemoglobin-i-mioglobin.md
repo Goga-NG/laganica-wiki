@@ -17,7 +17,7 @@ Mioglobin je monomerni protein koji se sastoji od 153 aminokiseline. U njegovoj 
 
 ## Kriva saturacije
 
-![Kriva saturacije](slike/krivasaturacije.PNG)
+![Krivasaturacije](slike/krivasaturacije.PNG)
 
 [← Prethodno pitanje](struktura-proteina-nivoi-organizacije-molekula.md)
 [Sledeće pitanje →](elementi-koji-cine-biohemijsku-masineriju-za-sintezu-proteina-ribozomi-i-rnk.md)
