@@ -7,4 +7,4 @@
 5. [Elongacija polipeptidnog lanca i okončanje sinteze proteina](elongacija-polipeptidnog-lanca-i-okoncanje-sinteze-proteina.md)
 6. [Posttranslaciona obrada proteina u endoplazmatskom retikulumu i Goldžijevom aparatu](posttranslaciona-obrada-proteina-u-endoplazmatskom-retikulumu-i-golgijevom-aparatu.md)
 7. [Regulacija genske ekspresije i sinteze proteina](regulacija-genske-ekspresije-i-sinteze-proteina.md)
-8. [Unutarćelijska razgradnja proteina: lizozomi i ubikvitin sistem](unutarcelijska-razgradnja-proteina-lizozomi-i-ubikvitin-sistem.md)
+8. [Unutarćelijska razgradnja proteina: lizozomi i ubikvitin sistem](unutarcelijaska-razgradnja-proteina-lizozomi-i-ubikvitin-sistem.md)
