@@ -31,7 +31,7 @@ Peptidna veza nastaje između α-karboksilne grupe jedne i α-amino grupe druge 
 Veza je parcijalno dvostruka, rigidna (sprečena rotacija N-C) i planarna, zauzima trans konfiguraciju usled sternih interakcija bočnih grupa i nenaelektrisana je, ali polarna.
 Struktura peptida se piše sa leva na desno, N → C. U zavisnosti od sadržaja aminokiselina, peptid može biti kiseo ili bazan.
 
-![Peptidnaveza](slike/peptidebond.PNG)
+![Peptidnaveza](slike/peptidebond.png)
 
 ### Nivoi organizacije
 
@@ -49,7 +49,7 @@ Stabilizovana je vodoničnim vezama. Razlikujemo sledeće strukture:
 
  - β-nabrana ploča: vodonična veza se stvara između udaljenih aminokiselina istog ili susednog lanca. Razlikujemo β-ploče sa paralelno i antiparalelno postavljenim lancima ili delovima lanca.
 
-![Sekundarnastruktura](slike/secstructure.PNG)
+![Sekundarnastruktura](slike/secstructure.png)
 
 Određene aminokiseline mogu remetiti stvaranje sekundarnih struktura. Na primer, glutamat ili lizin i arginin ometaju stvaranje vodoničnih veza usled odbijanja naelektrisanih bočnih grupa.
 Prolim nema slobodan vodonik, pa isto remeti stvaranje veze.
@@ -69,7 +69,7 @@ Domeni imaju hidrofobno jezgro i polarnu spoljašnjost. Domeni su međusobno pov
 
 #### Kvaternarna struktura
 
-Predstavlja udruživanje više polipeptidnih jedinica - polimerni proteini. Mogu biti homopolimeri ili heteropolimeri. Strukturn ponovak u polimernom proteinu nazivamo protomera.
+Predstavlja udruživanje više polipeptidnih jedinica - polimerni proteini. Mogu biti homopolimeri ili heteropolimeri. Strukturni ponovak u polimernom proteinu nazivamo protomera.
 U stabilizaciji učestvuju isključivo nekovalentne veze: vodonične veze, hidrofobne i elektrostatske interakcije i van der Valsove sile.
 
 [Hemoglobin](proteini-koji-vezuju-kiseonik-hemoglobin-i-mioglobin.md## Hemoglobin) je prvi polimerni protein čija je struktura opisana.
