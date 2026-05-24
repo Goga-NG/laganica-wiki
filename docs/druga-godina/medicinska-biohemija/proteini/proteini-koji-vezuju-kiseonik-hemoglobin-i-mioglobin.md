@@ -9,7 +9,7 @@ U hemoglobinu hem je pozicioniran između dva histidinska ostatka, His64 (E7, di
 Šesto vezno mesto služi za vezivanje kiseonika (ili ugljenmonoksida). Vezivanje kiseonika pomera gvožđe ka ravni prstena, što vuče i histidin, a time i čitav globinski lanac.
 To uzrokuje pucanje sonih mostova između subjedinica i dovodi do konformacionih promena čitavog molekula hemoglobina. Posledica toga je povećanje afiniteta ka kiseoniku (prelazi iz T-tense u R-relaxed stanje).
 
-![Hemoglobin](slike/hemoglobin.PNG)
+![Hemoglobin](slike/hemoglobin.png)
 
 ## Mioglobin
 

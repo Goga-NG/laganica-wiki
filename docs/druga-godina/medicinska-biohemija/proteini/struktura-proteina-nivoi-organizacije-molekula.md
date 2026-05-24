@@ -72,7 +72,7 @@ Domeni imaju hidrofobno jezgro i polarnu spoljašnjost. Domeni su međusobno pov
 Predstavlja udruživanje više polipeptidnih jedinica - polimerni proteini. Mogu biti homopolimeri ili heteropolimeri. Strukturni ponovak u polimernom proteinu nazivamo protomera.
 U stabilizaciji učestvuju isključivo nekovalentne veze: vodonične veze, hidrofobne i elektrostatske interakcije i van der Valsove sile.
 
-[Hemoglobin](proteini-koji-vezuju-kiseonik-hemoglobin-i-mioglobin.md## Hemoglobin) je prvi polimerni protein čija je struktura opisana.
+[Hemoglobin](proteini-koji-vezuju-kiseonik-hemoglobin-i-mioglobin.md) je prvi polimerni protein čija je struktura opisana.
 Sastoji se od četiri subjedinice: α1, α2, β1 i β2. One su ograničene kao simetrični parovi jedne α i jedne β subjedinice.
 Zato možemo reći da je hemoglobin tetramer ili dimer dve αβ protomere.   
 
