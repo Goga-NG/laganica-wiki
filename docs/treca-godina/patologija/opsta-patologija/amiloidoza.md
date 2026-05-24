@@ -36,6 +36,7 @@ Organ je uvećan, čvrst, krut, voštanog sjaja. Parenhim atrofiše usled kompre
 - Slezina:
 
 	-"Sago slezina": U beloj pulpi (limfni folikuli).
+	
 	-"Slaninasta slezina": U crvenoj pulpi (zidovi krvnih sudova).
     
 - Jetra: Deponovanje u Diseovim prostorima i oko sinusoida → atrofija hepatocita.
