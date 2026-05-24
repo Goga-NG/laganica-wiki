@@ -9,7 +9,7 @@ Sastav: Fibrilarni protein (90%) + glikoproteini (10%).
 Mikroskopija: 
 
 - H/E bojenje: Amorfna ružičasta masa (sliči [hijalinu](hijalina-promena.md)).
-- Dijagnostika: Congo Red (polarizacija) ili Tioflavin T (fluorescencija).
+- Dijagnostika: Congo Red ili Tioflavin T (fluorescencija).
 
 Klinički: Deponovanje je progresivno i ireverzibilno (pritisak → atrofija parenhima). Hemijski je inertan (ne izaziva zapaljenje).
 
