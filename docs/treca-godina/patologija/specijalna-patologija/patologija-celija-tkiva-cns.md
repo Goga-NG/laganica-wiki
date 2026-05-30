@@ -31,6 +31,7 @@ Selektivno oštećenje neurona u odnosu na noksu koja deluje na CNS.
  U ožiljku sa mnogo gemistocita nalazimo Rozentalova vlakna, koja nastaju deponovanjem glijalnih vlakana. Viđamo ih u starim ožiljcima i spororastućim tumorima.
  
 ![Gemistociti](slike/gemistociti.PNG)
+![Rozentalova vlakna](slike/rozentalovavlakna.PNG)
  
 ## Oštećenja oligodendrocita
 
@@ -40,7 +41,7 @@ Produkuju mijelin u CNS-u, pravilno okrugih jedara, sa haloom (artefakt fiksacij
 
  - Promene se dešavaju uglavnom kod virusnih infekcija.
 
-![Transformisani oligodendrociti](slike/transformisanioligodendrocit.PNG)
+![Transformisani oligodendrociti](slike/transformisanoligodendrocit.PNG)
 
 ## Oštećenje mikroglije
 

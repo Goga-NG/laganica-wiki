@@ -28,9 +28,10 @@ Načini na koji se mozak oštećuje:
 	
 ## Edem mozga
 
-Teorijska podela (u praksi nastaju udruženo ali je bitno zbog terapije):
-  1) vazogeni - oštećenje zidova krvnih sudova (zapaljenje)
-  2) citotoksični - oštećenja pumpi (virusna infekcija)
+Teorijska podela (u praksi nastaju udruženo ali je bitno zbog terapije): 
+
+  1) vazogeni - oštećenje zidova krvnih sudova (zapaljenje) 
+  2) citotoksični - oštećenja pumpi (virusna infekcija) 
   3) intersticijalni - zbog povećanja pritiska u lumenu komora likvor iz komora prodire u parenhim jer ependimne ćelije nemaju bazalnu membranu
   
 ![Edem](slike/edemmozga.PNG)
