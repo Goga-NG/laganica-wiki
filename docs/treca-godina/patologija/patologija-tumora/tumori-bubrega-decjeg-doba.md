@@ -28,8 +28,10 @@ zbog kompresije creva i hematurijom. Prognoza je odlična uz hemioterapju i nefr
 Određena sindromska oboljenja su povezana sa povećanim rizikom za nastanak nefroblastoma:
 
  1) Denis-Drašov sindrom - disgenezija gonada i nefropatija. 
+  
  2) Bekvit-Videmanov sindrom - uvećani organi i delovi tela. 
- 3) WAGR sindrom - Vilmsov tumor, aniridija (potpuno ili delimično odsustvo irisa), anomalije genitalnog sistema i mentalna retardacija.
+ 
+ 3) WAGR sindrom - Vilmsov tumor, aniridija (potpuno ili delimično odsustvo irisa), anomalije genitalnog sistema i mentalna retardacija. 
 
 [← Prethodno pitanje](tumori-bubrega-odraslog-doba.md)
 [Sledeće pitanje →](tumori-donjih-mokracnih-puteva.md)
