@@ -20,7 +20,7 @@ Ribozomi imaju tri vezujuća mesta za tRNK molekule:
  vremenski interval tokom koga se pogrešna aminoacil-tRNK može odvojiti od ribozoma. 
  - Stvara se peptidna veza, u reakciji koja je katalisana velikom subjedinico, pri čemu se stvara peptidil-tRNK na A-mestu,
  dok je inicijatorska tRNK na P-mestu nepopunjena. 
- -Zatim dolazi do translokacije uz pomoć eEF-2 i hidrolize GTP-a, pri čemu se ribozom pomera za tri nukleotida, postavljajući
+ - Zatim dolazi do translokacije uz pomoć eEF-2 i hidrolize GTP-a, pri čemu se ribozom pomera za tri nukleotida, postavljajući
  sledeći slobodan kodon na A-mesto. Ovo prebacuje peptidil-tRNK sa A-mesta na P-mesto, a inicijatorsku tRNK na E-mesto, odakle disosuje iz kompleksa. 
  - Zatim dolazi do regeneracije eEF-1α-GDP u GTP formu, dejstvom eEF-1β. 
  - Regenerisani elongacioni kompleks je ponovo spreman za dovođenje nove aminoacil-tRNK na A-mesto. 
