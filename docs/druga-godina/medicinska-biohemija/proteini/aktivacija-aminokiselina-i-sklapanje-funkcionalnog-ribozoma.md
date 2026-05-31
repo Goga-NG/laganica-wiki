@@ -3,7 +3,7 @@
 ## Aktivacija aminokiselina
 
 Prvi korak biosinteze [proteina](struktura-proteina-nivoi-organizacije-molekula.md), koji se odvija u citosolu, je aktivacija aminokiselina.
-Aktivaciju vrši grupa visokoselektivnih enzima aminoacil-tRNK sintetaze, uz utrošak ATP-a.
+Aktivaciju vrši grupa visokoselektivnih enzima **aminoacil-tRNK sintetaze**, uz utrošak ATP-a.
 Iz ATP-a se izdvaja pirofosfat, a AMP se vezuje za karboksilnu grupu aminokiseline.
 Aminokiselina se zatim estarskom vezom vezuje za hidroksilnu grupu šećera na 3' kraju tRNK i stvara aminoacil-tRNK, uz odvajanje AMP-a.
 
@@ -11,13 +11,13 @@ Aminokiselina se zatim estarskom vezom vezuje za hidroksilnu grupu šećera na 3
 
 Translacija se odvaja u tri faze:
 
-	1) Inicijacija;
+1) **Inicijacija**;
 	
-	2) Elongacija;
+2) **Elongacija**;
 	
-	3) Terminacija;
+3) **Terminacija**;
 	
-Prvi korak je vezivanje specifičnog inicijatora metionil-tRNK i iRNK za malu subjedinicu [ribozoma](elementi-koji-cine-biohemijsku-masineriju-za-sintezu-proteina-ribozomi-i-rnk.md## Ribozomi). Velika subjedinica se zatim pridružuje i formira kompletan ribozom na kome se nastavlja elongacija polipeptidnog lanca.
+Prvi korak je vezivanje specifičnog inicijatora **metionil-tRNK** i iRNK za malu subjedinicu [ribozoma](elementi-koji-cine-biohemijsku-masineriju-za-sintezu-proteina-ribozomi-i-rnk.md## Ribozomi). Velika subjedinica se zatim pridružuje i formira kompletan ribozom na kome se nastavlja elongacija polipeptidnog lanca.
 
 Inicijacija zahteva prisustvo faktora inicijacije - eIF.
 
