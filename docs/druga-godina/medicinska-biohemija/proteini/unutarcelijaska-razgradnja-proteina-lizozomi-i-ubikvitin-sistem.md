@@ -6,7 +6,9 @@ Količina proteina u ćeliji zavisi i od brzine sinteze i od brzine razgradnje. 
 Postoji više tipova proteolize:
 
  1) **Ubikvintinski sistem**; 
+ 
  2)** Lizozomska razgradnja**; 
+ 
  3) Drugi načini (kaspaze, kalcijum-zavisne proteaze, Goldži i ER proteaze koje razgrađuju peptidne fragmente nastale obradom proteina); 
 
 ## Ubikvintinski put

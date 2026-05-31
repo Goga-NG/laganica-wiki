@@ -10,7 +10,9 @@ aktivacije za adiciju sledeće aminokiseline, a ne za svoju sopstvenu adiciju. T
 Ribozomi imaju tri vezujuća mesta za tRNK molekule:
 
 1) **Aminoacil-tRNK-vezujuće mesto (A-mesto)** - vezuje dolazeću tRNk koja nosi aminokiselinu. 
+
 2) **Peptidil-tRNK-vezujuće mesto (P-mesto)** - na koje dolazi tRNK vezana za rastući kraj polipeptidnog lanca. 
+
 3) **Izlazeće mesto (E-mesto)** - sa kojeg se oslobađa tRNK.
 
  - Inicijator metionil-tRNK se vezuje za P-mesto. 

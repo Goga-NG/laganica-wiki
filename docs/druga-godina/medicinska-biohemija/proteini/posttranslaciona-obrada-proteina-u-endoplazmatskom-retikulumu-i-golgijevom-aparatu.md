@@ -23,7 +23,7 @@ koja ne dozvoljava prolazak proteina kroz membranu.
 
 Kontrolisana proteoliza je važan korak u definitivnoj obradi proteina gde se nefunkcionalni protein prevodi u funkcionalni. Na ovaj način se aktiviraju proenzimi.
 
-Po zavnvršetku translacije sa aminoterminalnog kraja se otcepljuje metionin.
+Po završetku translacije sa aminoterminalnog kraja se otcepljuje metionin.
 
 DODATI DEO O GOLDŽI 
 

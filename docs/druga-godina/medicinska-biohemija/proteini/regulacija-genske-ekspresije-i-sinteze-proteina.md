@@ -13,9 +13,13 @@ Diferencijacija ćelija eukariota se odvija promenama u sklopu gena koji se eksp
 Regulacija genske ekspresije se vrši na pet nivoa: 
 
  1) Na nivou genoma; 
+ 
  2) Na nivou transkripcije; 
+ 
  3) Na nivou obrade RNK i njene translokacije iz jedra u citosol; 
+ 
  4) Na nivou [translacije](aktivacija-aminokiselina-i-sklapanje-funkcionalnog-ribozoma.md); 
+ 
  5) Na nivou [postranslacione obrade](posttranslaciona-obrada-proteina-u-endoplazmatskom-retikulumu-i-golgijevom-aparatu.md); 
 
 Nivoe 3, 4 i 5 grupišemo u **posttranskripcionu regulaciju**. 
@@ -31,6 +35,7 @@ Amplifikacija gena odgovornih za nekontrolisanu proliferaciju se često nalazi u
 Regulacija transkripcije se odvija na dva nivoa: 
 
  1) Hromozomi ili njihovi delovi mogu postati nepristupačni kondenzovanjem u heterohromatin ili pristupačni dekondenzacijom u euhromatin. Heterohromatizacija se dešava metilacijom citozinskih rezidua DNK. 
+ 
  2) Regulacija na nivou individualnih gena, gde je glavna tačka regulacije faza inicijacije, jer se transkripcija odvija po principu "sve ili ništa", tj. jednom započet proces se odigrava do kraja.
  U regulaciji transkripcije individualnog gena učestvuju promotori, bazalni transkripcioni faktori, regulatorni faktori (aktivatori i represori), regulatorne sekvence (pojačivači i prigušivači). 
  
