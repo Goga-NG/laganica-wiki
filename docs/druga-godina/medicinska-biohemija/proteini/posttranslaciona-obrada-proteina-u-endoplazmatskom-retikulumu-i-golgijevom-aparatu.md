@@ -1,6 +1,6 @@
 # Posttranslaciona obrada proteina u endoplazmatskom retikulumu i Goldžijevom aparatu
 
-[Tercijarna struktura](struktura-proteina-nivoi-organizacije-molekula.md#### Tercijarna struktura) je rezultat interakcija bočnih grupa [aminokiselina](struktura-proteina-nivoi-organizacije-molekula.md) i nastaje procesom uvijanja proteina.
+[Tercijarna struktura](struktura-proteina-nivoi-organizacije-molekula.md####Tercijarna struktura) je rezultat interakcija bočnih grupa [aminokiselina](struktura-proteina-nivoi-organizacije-molekula.md) i nastaje procesom uvijanja proteina.
 
 Proteini nadzornici, **šaperoni** ubrzavaju uvijanje proteina. Vezivanje šaperona sprečava nepravilno uvijanje i agregaciju novosintetisanih proteina,
 vezivanjem za aminoterminalni kraj rastućeg polipeptidnog lanca, još za vreme [translacije](elongacija-polipeptidnog-lanca-i-okoncanje-sinteze-proteina.md). Takođe stabilizuju neuvijeni polipeptidni lanac tokom transporta iz citosola u organele. 
