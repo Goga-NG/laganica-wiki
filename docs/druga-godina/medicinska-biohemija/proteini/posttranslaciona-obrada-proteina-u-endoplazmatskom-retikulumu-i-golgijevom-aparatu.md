@@ -3,7 +3,7 @@
 [Tercijarna struktura](struktura-proteina-nivoi-organizacije-molekula.md####Tercijarna struktura) je rezultat interakcija bočnih grupa [aminokiselina](struktura-proteina-nivoi-organizacije-molekula.md) i nastaje procesom uvijanja proteina.
 
 Proteini nadzornici, **šaperoni** ubrzavaju uvijanje proteina. Vezivanje šaperona sprečava nepravilno uvijanje i agregaciju novosintetisanih proteina,
-vezivanjem za aminoterminalni kraj rastućeg polipeptidnog lanca, još za vreme [translacije](elongacija-polipeptidnog-lanca-i-okoncanje-sinteze-proteina.md). Takođe stabilizuju neuvijeni polipeptidni lanac tokom transporta iz citosola u organele. 
+vezivanjem za aminoterminalni kraj rastućeg polipeptidnog lanca, još za vreme [translacije](aktivacija-aminokiselina-i-sklapanje-funkcionalnog-ribozoma.md). Takođe stabilizuju neuvijeni polipeptidni lanac tokom transporta iz citosola u organele. 
 
 Postoje šaperoni koji katališu remodelovanje neadekvatno uvijenih proteina. Neadekvatno uvijeni proteini bivaju privučeni hidrofobnim interakcijama i bivaju zatvoreni u šupljini
 šaperona (šaperonin; TCP-I u citosolu, Hsp60 u mitohondrijama). Zatim dolazi do vezivanja ATP-a i proteinske kape, što povećava volumen šuplljine i isteže polipeptidni lanac, čime
